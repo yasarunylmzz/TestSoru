@@ -35,7 +35,7 @@ public class Main {
                 }
 
 
-
+//ss
         };
         for(int i = 0 ; i < soru.length ; i++){
             System.out.printf("%s",soru[i]);
